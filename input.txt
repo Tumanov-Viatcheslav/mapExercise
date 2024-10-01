@@ -1,0 +1,4 @@
+Anton;BMW;2020;black
+Yulia;Fiat;2020;red
+Stas;Lada;2000;red
+Boris;Tesla;2022;white
